@@ -1,4 +1,4 @@
-# Machine_Learning
+# Predicting Hotel Booking Status (Machine Learning)
 
 In the project focused on hotel booking status prediction using predictive analytics, I conducted 
 a case study to analyze and predict the outcome of hotel bookings. The dataset was divided into a 
